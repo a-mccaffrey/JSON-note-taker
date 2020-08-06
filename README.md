@@ -19,12 +19,6 @@ This is an application that can be used to write, save, and delete notes. This a
 
 ## Installation
 
-- All the `code` required to get started
-
-### Clone
-
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
-
 ### Setup
 
 
