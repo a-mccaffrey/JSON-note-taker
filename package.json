@@ -1,0 +1,25 @@
+{
+  "name": "json-note-taker",
+  "version": "1.0.0",
+  "description": "An application that can be used to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-mccaffrey/JSON-note-taker.git"
+  },
+  "author": "Aisling McCaffrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-mccaffrey/JSON-note-taker/issues"
+  },
+  "homepage": "https://github.com/a-mccaffrey/JSON-note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "util": "^0.12.3"
+  }
+}
